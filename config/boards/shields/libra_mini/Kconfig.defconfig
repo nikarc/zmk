@@ -1,0 +1,5 @@
+if SHIELD_LIBRA_MINI
+
+config ZMK_KEYBOARD_NAME
+  default "libra_mini"
+endif

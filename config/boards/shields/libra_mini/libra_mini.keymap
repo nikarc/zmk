@@ -24,8 +24,8 @@
 		layer_1 {
 			bindings = <
           &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &kp LBKT &kp GRAVE
-          &trans  &kp BSLH  &kp PIPE  &trans  &trans  &trans        &trans  &trans  &trans  &kp 4  &kp 5  &kp 6  &RBKT  &trans
-          &trans   &trans  &trans  &trans  &trans  &trans           &kp 0  &kp 1  &kp 2 &kp 3 &kp POUND &trans
+          &trans  &kp BSLH  &kp PIPE  &trans  &trans  &trans        &trans  &trans  &trans  &kp N4  &kp N5  &kp N6  &RBKT  &trans
+          &trans   &trans  &trans  &trans  &trans  &trans           &kp N0  &kp N1  &kp N2 &kp N3 &kp POUND &trans
           &trans &trans &trans             &trans                   &trans &trans  &trans    &trans   &bootloader
 			>;
 		};
